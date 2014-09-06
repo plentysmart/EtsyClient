@@ -42,6 +42,7 @@
     <Reference Include="System.Numerics" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Web.fs" />
     <Compile Include="EtsyClient.fs" />
   </ItemGroup>
   <PropertyGroup>

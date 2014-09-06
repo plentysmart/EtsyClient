@@ -1,0 +1,91 @@
+﻿{
+    count: 50100,
+    results: [
+        {
+            listing_id: 171780678,
+            state: "active",
+            user_id: 8161732,
+            category_id: 68887312,
+            title: "God Gave Me You - Any Room Vinyl Wall Decals Sticker Quotes",
+            description: "God gave me you for the ups and downs God gave me you for the days of doubt For when I think I&#39;ve lost my way There are no words here left to say, it&#39;s true God gave me you - Any Room Vinyl Wall Decals Stickers Quotes Please pick from the following colors at checkout: Black, White, Silver Gray, Dark Gray, Light Beige, Mocha, Chocolate Brown, Copper, Plum Purple, Lavender, Basic Yellow, Mustard Yellow, Creamy Yellow, Gold, Basic Orange, Baby Pink, Hot Pink, Basic Red, Cranberry, John Deere Green, Forest Green, Olive Green, Lime Green, Seafoam Green, Navy Blue, Dark Royal Blue, Baby Blue, Olympic Blue or Teal ********************************************************************************************************* www.SweetumsSignatures.com Sizes Available: 28&quot; wide x 20&quot; tall - $15.50 40&quot; wide x 28&quot; tall - $22.00 54&quot; wide x 40&quot; tall - $30.00 SPECIAL NOTE: The two largest sizes will come in two pieces for easier application. A famous Christian song by David Barnes was most recently made more known by country artist Blake Shelton. Many have played this song for a first dance at a wedding. This makes the chorus even more fitting for a bedroom. ********************************************************************************************************* Need to redo a room or make your new house a home? Sweetums Signatures offers cost effective and affordable wall decals to help you to bring some sparkle to your indoor and outdoor spaces. Redecorating your living room can take no time at all and cost next to nothing. Vinyl wall stickers can be placed on any flat surface in your home or outside it, transforming a room from elegant to casual in under 10 minutes. Need them in a hurry? We do our best to keep the orders going out as fast as they come in. We ship all of our wall decals via the postal service priority mail. They are all made to order, so you know your decal is fresh and ready to apply. Shipping is a flat rate of $5.50 and we make nothing on the freight. The best part is that all orders over $100 ship FREE! So get together your friends and just make one big order to save big. Great for any room, and any decorating style. Each order comes with an easy-to-follow application instruction sheet and application card. Vinyl wall decals add warmth, style and elegance, or just a little bit of country charm where you want it most. Decorating on a dime is possible with some wonderful new designs and fun styles in removable wall stickers from Sweetums Signatures. * As always, our sizes are just a popular guideline to go by. We can always customize any size for the space you have available, just ask! *",
+            creation_tsz: 1409942691,
+            ending_tsz: 1420487091,
+            original_creation_tsz: 1386185353,
+            last_modified_tsz: 1409942691,
+            price: "15.50",
+            currency_code: "USD",
+            quantity: 9,
+            tags: [
+                "vinyl wall decals",
+                "vinyl wall stickers",
+                "home decor",
+                "blake shelton",
+                "music wall decals",
+                "music decor",
+                "music lyrics",
+                "music lyrics decals"
+            ],
+            category_path: [
+                "Art"
+            ],
+            category_path_ids: [
+                68887312
+            ],
+            materials: [
+                "vinyl stickers decals"
+            ],
+            shop_section_id: 12870881,
+            featured_rank: null,
+            state_tsz: 1401828022,
+            url: "https://www.etsy.com/listing/171780678/god-gave-me-you-any-room-vinyl-wall?utm_source=fapiclient&utm_medium=api&utm_campaign=api",
+            views: 230,
+            num_favorers: 23,
+            shipping_template_id: null,
+            processing_min: 1,
+            processing_max: 2,
+            who_made: "i_did",
+            is_supply: "false",
+            when_made: "made_to_order",
+            is_private: false,
+            recipient: null,
+            occasion: null,
+            style: null,
+            non_taxable: false,
+            is_customizable: true,
+            is_digital: false,
+            file_data: "",
+            language: "en-US",
+            has_variations: true,
+            used_manufacturer: false
+        }
+    ],
+    params: {
+        limit: "100",
+        offset: 0,
+        page: null,
+        keywords: null,
+        sort_on: "created",
+        sort_order: "down",
+        min_price: null,
+        max_price: null,
+        color: null,
+        color_accuracy: 0,
+        tags: null,
+        category: null,
+        location: null,
+        lat: null,
+        lon: null,
+        region: null,
+        geo_level: "city",
+        accepts_gift_cards: "false",
+        translate_keywords: "false"
+    },
+    type: "Listing",
+    pagination: {
+        effective_limit: 100,
+        effective_offset: 0,
+        next_offset: 100,
+        effective_page: 1,
+        next_page: 2
+    }
+}
