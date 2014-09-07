@@ -50,6 +50,7 @@
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
     <Compile Include="EtsyModel.fs" />
+    <Compile Include="Listings.fs" />
     <Compile Include="EtsyClient.fs" />
     <None Include="packages.config" />
     <None Include="app.config" />
