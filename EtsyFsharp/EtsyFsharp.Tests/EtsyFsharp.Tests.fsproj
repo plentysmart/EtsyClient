@@ -49,18 +49,18 @@
   </Choose>
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
-    <Compile Include="WebTests.fs" />
+    <Compile Include="EtsyClientTests.fs" />
     <None Include="packages.config" />
     <Content Include="ListingsResponse.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <None Include="app.config" />
+    <Compile Include="ModelDeserializationTests.fs" />
+    <Content Include="Categories.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="HttpClient">
-      <HintPath>..\packages\Http.fs.1.2.0\lib\net40\HttpClient.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="mscorlib" />
     <Reference Include="FSharp.Core, Version=$(TargetFSharpCoreVersion), Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
       <Private>True</Private>
